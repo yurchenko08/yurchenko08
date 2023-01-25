@@ -5,11 +5,16 @@ Stack of technologies:
 ***Here you can find:***
 ****Courses:****
  [React online marathon](https://github.com/stars/yurchenko08/lists/react-marathon/ "Click to see my code")
- ***
+ 
+ 
  [ScriptJedi42](https://github.com/yurchenko08/js-jedi-tasks/ "Click to see my code")
- ***
+ 
+ 
  [HTML5/ CSS3/ JavaScript Fundamentals](https://github.com/yurchenko08/team-09-softserve-course/ "Click to see my code")
+ 
+ 
 ****Projects****
+
 [ToDo App](https://github.com/yurchenko08/TodoApp/ "Click to see my code")
 
 
