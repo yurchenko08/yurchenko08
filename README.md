@@ -1,5 +1,5 @@
 ### Hi there 👋
-![](https://img.shields.io/badge/<code>-<JavaScript>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/<library>-<React>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 
 <!--
