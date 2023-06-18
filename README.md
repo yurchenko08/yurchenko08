@@ -27,13 +27,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
- 
- 
-****Projects:****
-
-[ToDo App](https://github.com/yurchenko08/TodoApp/ "Click to see my code")
-
-[Rick&Morty](https://github.com/yurchenko08/rick-morty/ "Click to see my code")
 
 
 
